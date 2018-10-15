@@ -6,8 +6,8 @@ background-color: #D0E0C0
  width: 798px;
   margin: 40px auto;
 padding: 40px 80px;
-border: green 1px solid;
-background-color: white;
+border: #123456 1px solid;
+background-color: #000012;
 }
 
 
@@ -25,13 +25,13 @@ fony-size: 16px
  }
 
 .btn:active{
-color: white;
+color: #000000;
 }
 
 .btn-submit{
-background-color: silver;
+background-color: #120000;
 }
 
 .btn-reset{
-background-color:red;
+background-color:#00AA00;
 }
