@@ -1,3 +1,14 @@
+body{
+background-color: #001234;
+}
+
+#main{
+padding: 40px 80px;
+border: green 1px solid;
+background-color: white;
+}
+
+
 .btn{
 -webkit-appearance: none;
 -webkit-border-redius: 0;
