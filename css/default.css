@@ -35,3 +35,28 @@ background-color: #120000;
 .btn-reset{
 background-color:#00AA00;
 }
+
+caption{
+ padding: 5px;
+}
+
+#price{
+ backgroun-color: red;
+}
+
+thead th, tfoot th{
+ background-color: white;
+}
+
+thead td{
+ color: white;
+ backgrouhd-color: lighcoral;
+ text-align: center;
+}
+
+tfoot td{
+ font-weight: bold;
+ background-color: white;
+}
+
+ 
